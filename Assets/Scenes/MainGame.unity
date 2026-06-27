@@ -694,10 +694,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: itemType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 12fd0d4f921ba9a4b8b030d4e3a9d52f, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 8919138357457122981, guid: b141ebdc4c4083d43b5a2e6c75dcf3bc, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (2)
+      value: Bonus Item
       objectReference: {fileID: 0}
+    - target: {fileID: 3868495186413974199, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a429330e41d996f48bd6ddab38521a0d, type: 2}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.345573
@@ -3219,9 +3235,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: bbaec0557436b0640ac72ea209006399, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 6392211525988800634, guid: 9f58ea1ff4201504789289bd72a546ae, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (8)
+      value: Basic Item
       objectReference: {fileID: 0}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3338,9 +3362,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: bbaec0557436b0640ac72ea209006399, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 6392211525988800634, guid: 9f58ea1ff4201504789289bd72a546ae, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items
+      value: Basic Item
       objectReference: {fileID: 0}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3884,10 +3916,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: itemType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 12fd0d4f921ba9a4b8b030d4e3a9d52f, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 8919138357457122981, guid: b141ebdc4c4083d43b5a2e6c75dcf3bc, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (1)
+      value: Bonus Item
       objectReference: {fileID: 0}
+    - target: {fileID: 3868495186413974199, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a429330e41d996f48bd6ddab38521a0d, type: 2}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.7741213
@@ -3941,9 +3989,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: bbaec0557436b0640ac72ea209006399, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 6392211525988800634, guid: 9f58ea1ff4201504789289bd72a546ae, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (5)
+      value: Basic Item
       objectReference: {fileID: 0}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4135,10 +4191,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: itemType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: c4bdcf93a81bd6345b03be54dc9d0abe, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 4779605201026299322, guid: 0b76fa8b3687c1f48ad5a5e16d422855, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (6)
+      value: TrapItem
       objectReference: {fileID: 0}
+    - target: {fileID: 3868495186413974199, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36f9a3c6d1913d24ab53050dfe6b9f10, type: 2}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.584541
@@ -5066,10 +5138,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: itemType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 12fd0d4f921ba9a4b8b030d4e3a9d52f, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 8919138357457122981, guid: b141ebdc4c4083d43b5a2e6c75dcf3bc, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (4)
+      value: Bonus Item
       objectReference: {fileID: 0}
+    - target: {fileID: 3868495186413974199, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a429330e41d996f48bd6ddab38521a0d, type: 2}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.751366
@@ -5601,10 +5689,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: itemType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: c4bdcf93a81bd6345b03be54dc9d0abe, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 4779605201026299322, guid: 0b76fa8b3687c1f48ad5a5e16d422855, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (3)
+      value: TrapItem
       objectReference: {fileID: 0}
+    - target: {fileID: 3868495186413974199, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36f9a3c6d1913d24ab53050dfe6b9f10, type: 2}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 36.460487
@@ -5658,9 +5762,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 454194597}
     m_Modifications:
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: bbaec0557436b0640ac72ea209006399, type: 3}
+    - target: {fileID: -6440928944697640702, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
+      propertyPath: collectVfx
+      value: 
+      objectReference: {fileID: 6392211525988800634, guid: 9f58ea1ff4201504789289bd72a546ae, type: 3}
     - target: {fileID: 187851228265860834, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_Name
-      value: Collectible Items (7)
+      value: Basic Item
       objectReference: {fileID: 0}
     - target: {fileID: 5502778231125470081, guid: 7c38b9fcc0c67784aac3cf08c4d9d7c3, type: 3}
       propertyPath: m_LocalPosition.x

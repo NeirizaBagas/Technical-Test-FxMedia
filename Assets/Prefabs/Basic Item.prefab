@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1663981466680685960}
   - component: {fileID: -6440928944697640702}
   m_Layer: 0
-  m_Name: Collectible Items
+  m_Name: Basic Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -125,3 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119e18ba82f823d489e9836ea4db1db7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Coins
+  itemType: 0
+  basicValue: 2
+  bonusValue: 5
+  trapValue: -1
